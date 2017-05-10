@@ -1,0 +1,7 @@
+#! /bin/sh
+if grep pattern myfile > /dev/null
+then
+    echo "pattern is there"
+else
+    echo "pattern is not there"
+fi

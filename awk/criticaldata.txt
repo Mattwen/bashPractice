@@ -1,0 +1,7 @@
+matt:wenger:mattwen@uw.edu
+joe:mccarthy:joemccarthy@uw.edu
+bob:ross:bobross@uw.edu
+smith:johnson:smithjohnson@uw.edu
+johnson:johnson:johnson@uw.edu
+jeff:bridges:jeffyb@uw.edu
+

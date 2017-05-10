@@ -1,0 +1,5 @@
+#! /bin/sh
+for f in dos-file*.txt
+do
+    tr -d '\r' < $f >> big-unix-file.txt
+done

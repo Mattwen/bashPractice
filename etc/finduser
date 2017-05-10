@@ -1,0 +1,3 @@
+#! /bin/sh
+# finduser -- see if a user named by first arugment is logged in
+who | grep $1
