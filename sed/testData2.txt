@@ -1,0 +1,5 @@
+apples:fruit
+orange:fruit
+grapes:fruit
+watermelon:fruit
+
